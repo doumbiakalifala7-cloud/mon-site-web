@@ -1,11 +1,11 @@
 body {
     margin: 0;
     font-family: arial, sans-serif;
-    background-color: brown;
+    background-color: gray;
     color: #10254a;
 }
 header {
-    background-color: #075;
+    background-color: brown;
     border-radius: 0%;
     margin: auto;
 }
