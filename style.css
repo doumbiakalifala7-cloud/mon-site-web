@@ -136,9 +136,10 @@ img {
     display: block;
     margin: 20px auto;
     border-radius: auto;
-    height: 200px;
+    height: auto;
     object-fit: cover;
     text-align: center;
+    
 }
 footer {
     background-color: rgb(46, 45, 44);
